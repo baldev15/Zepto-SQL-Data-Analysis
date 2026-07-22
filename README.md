@@ -1,5 +1,7 @@
 Zepto-SQL-Data-Analysis
+
 🛒 Zepto SQL Data Analysis
+
 📌 Project Overview
 This project analyzes the Zepto Grocery Products Dataset using PostgreSQL. The dataset was imported from Kaggle and explored using SQL to uncover valuable business insights related to pricing, discounts, inventory, and product categories.
 
@@ -10,19 +12,23 @@ Import and manage a real-world dataset in PostgreSQL.
 Perform data exploration and cleaning.
 Analyze pricing, discounts, and inventory.
 Generate meaningful business insights using SQL.
+
 🛠️ Tools & Technologies
 PostgreSQL
 SQL
 Kaggle Dataset
+
 📂 Dataset
 Source: Kaggle
 Dataset: Zepto Grocery Products Dataset
+
 📊 Project Workflow
 Created a PostgreSQL table.
 Imported the Kaggle dataset.
 Performed data exploration.
 Cleaned the dataset.
 Wrote SQL queries to answer business questions.
+
 🔍 SQL Concepts Used
 CREATE TABLE
 INSERT
@@ -37,6 +43,7 @@ CASE WHEN
 UPDATE
 DELETE
 LIMIT
+
 📈 Business Questions Answered
 Total number of products in the dataset
 Different product categories available
@@ -50,6 +57,7 @@ Categories offering the highest average discounts
 Best value products based on price per gram
 Product classification by weight
 Total inventory weight for each category
+
 📁 Repository Structure
 Zepto-SQL-Data-Analysis/
 │
@@ -64,6 +72,7 @@ Zepto-SQL-Data-Analysis/
 │   ├── query_results.png
 │
 └── README.md
+
 🚀 Key Skills Demonstrated
 SQL Data Analysis
 Data Exploration
@@ -72,11 +81,12 @@ Business Analytics
 Inventory Analysis
 Pricing Analysis
 PostgreSQL Database Management
+
 👨‍💻 Author
-Fardin Khirani
+Baldev Jadav
 
 Aspiring Data Analyst
 
-GitHub: https://github.com/fardin-92
-LinkedIn: www.linkedin.com/in/fardin-khirani
+GitHub: https://github.com/baldev15
+LinkedIn: https://www.linkedin.com/in/baldev-jadav-282660313/
 ⭐ If you found this project useful, feel free to star the repository.
