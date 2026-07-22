@@ -1,4 +1,5 @@
 🛒 Zepto SQL Data Analytics Project
+
 📌 Project Overview
 
 This project presents an in-depth analysis of the Zepto Grocery Products Dataset using PostgreSQL. The objective is to explore product data, clean inconsistencies, and answer real-world business questions through SQL queries.
