@@ -35,14 +35,18 @@ Available Quantity
 Weight (in grams)
 Out of Stock Status
 Quantity
+
 📊 Project Workflow
+
 Created a PostgreSQL database and table.
 Imported the Zepto dataset.
 Explored and understood the dataset.
 Cleaned missing and duplicate values.
 Executed SQL queries to solve business problems.
 Generated insights through data analysis.
+
 🔍 SQL Concepts Used
+
 CREATE TABLE
 INSERT INTO
 SELECT
@@ -56,7 +60,9 @@ CASE WHEN
 UPDATE
 DELETE
 Aggregate Functions (COUNT(), SUM(), AVG(), MAX(), MIN())
+
 📈 Business Questions Answered
+
 Total number of products in the dataset
 Different product categories available
 Products currently out of stock
@@ -71,7 +77,9 @@ Product classification by weight (Low, Medium, Bulk)
 Total inventory weight for each category
 Top 10 most expensive products
 Category-wise product count
+
 📁 Repository Structure
+
 Zepto-SQL-Data-Analysis/
 │
 ├── dataset/
@@ -93,7 +101,9 @@ Zepto-SQL-Data-Analysis/
 │   ├── Q10.png
 │
 └── README.md
+
 🚀 Key Skills Demonstrated
+
 SQL Query Writing
 PostgreSQL Database Management
 Data Cleaning
@@ -104,13 +114,16 @@ Inventory Analysis
 Pricing Analysis
 Aggregate Functions
 Problem Solving
+
 📊 Key Insights
+
 Identified products with the highest discount percentages.
 Compared product distribution across categories.
 Estimated category-wise revenue.
 Found premium products with minimal discounts.
 Calculated price per gram to identify best-value products.
 Analyzed inventory weight and stock availability.
+
 📚 Learning Outcomes
 
 Through this project, I gained hands-on experience in:
@@ -121,6 +134,7 @@ Cleaning and exploring data
 Solving business problems using SQL
 Performing inventory and pricing analysis
 Managing PostgreSQL databases
+
 👨‍💻 Author
 
 Baldev Jadav
